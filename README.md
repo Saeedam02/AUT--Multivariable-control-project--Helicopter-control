@@ -1,2 +1,9 @@
-# AUT--Multivariable-control-project--Helicopter-control
-This repository is related to my MIMO project at the Amir Kabir University of Technology about MIMO control of a helicopter system.
+# MIMO Control of Helicopter System
+
+# Introduction
+Welcome to the MIMO Control of Helicopter System project repository! This project was developed as part of coursework or research at Amir Kabir University of Technology. Here, we provide an overview of the project, how to get started, and essential documentation to help you understand and use the project effectively.
+
+# Prerequisites
+List any prerequisites or dependencies that users need to have installed or configured before using this project:
+1) MATLAB 
+2) Simulink
