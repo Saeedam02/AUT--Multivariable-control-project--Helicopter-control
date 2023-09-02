@@ -1,4 +1,5 @@
 # MIMO Control of Helicopter System
+![Helicopter parts]([image-url](https://github.com/Saeedam02/AUT-Multivariable-control-HelicopterSystem/blob/main/images/The-major-components-of-a-helicopter-are-the-airframe-fuselage-landing-gear.jpg))
 
 # Introduction
 Welcome to the MIMO Control of Helicopter System project repository! This project was developed as part of coursework or research at Amir Kabir University of Technology. Here, we provide an overview of the project, how to get started, and essential documentation to help you understand and use the project effectively.
